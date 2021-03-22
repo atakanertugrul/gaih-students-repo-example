@@ -3,7 +3,6 @@
 
 **Course Date:** DD.MM.YYYY  
 **Name:** Atakan    
-
 **Surname:** Ertuğrul  
 **Email:** atakanertugrul61@gmail.com 
 
