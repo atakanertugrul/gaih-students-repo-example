@@ -2,7 +2,8 @@
 ![](img/newlogo.png)
 
 **Course Date:** DD.MM.YYYY  
-**Name:** Atakan 
+**Name:** Atakan    
+
 **Surname:** Ertuğrul  
 **Email:** atakanertugrul61@gmail.com 
 
